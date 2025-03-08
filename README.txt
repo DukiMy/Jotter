@@ -1,8 +1,8 @@
-            +----------------------------+
-            |   Startup instruktioner    |
-            +----------------------------+
+                    +----------------------------+
+                    |   Startup instructions     |
+                    +----------------------------+
 
-Antar att ni befinner er på samma mapp som denna fil.
+Assuming that you are operating from the folder where this file is located.
 
-    Kompilera:  javac -d ../bin dumi7975/*.java
-    Kör:        java -cp ../bin dumi7975.Frame
+    Kompilera:  javac -d ../bin Jotter/*.java
+    Kör:        java -cp ../bin Jotter.Frame
